@@ -1,0 +1,9 @@
+c:\users\mreug\onedrive\documents\visual studio 2017\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+c:\users\mreug\onedrive\documents\visual studio 2017\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+c:\users\mreug\onedrive\documents\visual studio 2017\Projects\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+c:\users\mreug\onedrive\documents\visual studio 2017\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csprojResolveAssemblyReference.cache
+c:\users\mreug\onedrive\documents\visual studio 2017\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+c:\users\mreug\onedrive\documents\visual studio 2017\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.Cache
+c:\users\mreug\onedrive\documents\visual studio 2017\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+c:\users\mreug\onedrive\documents\visual studio 2017\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+c:\users\mreug\onedrive\documents\visual studio 2017\Projects\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Form1.resources
